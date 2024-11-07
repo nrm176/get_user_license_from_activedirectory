@@ -3,4 +3,5 @@
 
 ### Install following modules first
 > Install-Module -Name Az -Force -AllowClobber -Scope CurrentUser
+
 > Install-Module -Name AzureAD -Force -AllowClobber -Scope CurrentUser
